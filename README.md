@@ -1,8 +1,8 @@
 ### Oii, eu sou a Abigail 👋
 
 <!--
-- 🎒 Estou concluindo curso técnico em informática 
-
+- 🎒 Técnico em informática 
+- UX Design-->
 <div>
   <a href="https://github.com/abigailtechnology"></a>
   <img height="180px" src = "https://github-readme-stats.vercel.app/api?username=abigailtechnology&theme=jolly&show_icons=true&include_all_commits=true&count_private=true">
@@ -10,4 +10,3 @@
   
   
 </div>
--->
