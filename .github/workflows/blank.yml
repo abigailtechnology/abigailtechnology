@@ -42,7 +42,9 @@ jobs:
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main
+          repository: https://github.com/abigailtechnology/abigailtechnology.git
+          branch: ${{ github.ref }}
+          directory: .
           force: true
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
