@@ -4,13 +4,13 @@
 - 🎒 Técnico em informática 
 - UX Design-->
 
-<div>
+<!-- <div>
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=figma,js,typescript,react,html,css,java,python" />
   </a>
-</p>
+</p> -->
 
 </div>
 
