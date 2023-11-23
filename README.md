@@ -3,11 +3,25 @@
 <!--
 - 🎒 Técnico em informática 
 - UX Design-->
+
 <div>
   <a href="https//github.com/abigailtechnology"></a>
   <img height="180px" src = "https://github-readme-stats.vercel.app/api?username=abigailtechnology&rank_icon=github&theme=jolly&show_icons=true&include_all_commits=true&count_private=true">
     <img height="180px" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=abigailtechnology&layout=compact&langs_count=16&theme=jolly&count_private=true">
-  
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,js, typescript, react, html, css,java, python" />
+  </a>
+</p>
+
+
+
+
+
+
+
+
  <!-- ![snake animation](https://github.com/abigailtechnology/abigailtechnology/blob/output/github-contribution-grid-snake.svg)
 
 [![readme](https://github-readme-stats.vercel.app/api/pin/?username=abigailtechnology&repo=abigailtechnology&theme=jolly)](https://github.com/abigailtechnology/abigailtechnology)
