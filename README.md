@@ -16,7 +16,7 @@
 
 <div>
   <a href="https//github.com/abigailtechnology"></a>
-  <img height="180px" src = "https://github-readme-stats.vercel.app/api?username=abigailtechnology&rank_icon=github&show_icons=true&theme=jolly&include_all_commits=true&count_private=true">
+  <img height="180px" src = "https://github-readme-stats.vercel.app/api?username=abigailtechnology&rank_icon=github&show_icons=true&bg_color=000&text_color=EC459F&icon_color=EC459F&include_all_commits=true&count_private=true">
     <img height="180px" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=abigailtechnology&layout=compact&langs_count=16&theme=jolly&count_private=true">
 
  <!-- ![snake animation](https://github.com/abigailtechnology/abigailtechnology/blob/output/github-contribution-grid-snake.svg)
