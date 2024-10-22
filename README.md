@@ -21,7 +21,7 @@
 
 ![snake animation](https://github.com/abigailtechnology/abigailtechnology/blob/output/github-contribution-grid-snake.svg)
 
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=abigailtechnology&repo=abigailtechnology&theme=jolly)](https://github.com/abigailtechnology/abigailtechnology)
+<!--[![readme](https://github-readme-stats.vercel.app/api/pin/?username=abigailtechnology&repo=abigailtechnology&theme=jolly)](https://github.com/abigailtechnology/abigailtechnology)
 
 </div>
 <!-- https://github.com/abigailtechnology/abigailtechnology/blob/output/github-contribution-grid-snake.gif
