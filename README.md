@@ -23,8 +23,7 @@
 <!-- Cobrinha
 ![snake animation](https://github.com/abigailtechnology/abigailtechnology/blob/output/github-contribution-grid-snake.svg)
 
-<!--[![readme](https://github-readme-stats.vercel.app/api/pin/?username=abigailtechnology&repo=abigailtechnology&theme=jolly)](https://github.com/abigailtechnology/abigailtechnology)
+ https://github.com/abigailtechnology/abigailtechnology/blob/output/github-contribution-grid-snake.gif
+![snake gif](https://github.com/abigailtechnology/abigailtechnology/blob/output/github-contribution-grid-snake.gif)-->
 
-</div>
-<!-- https://github.com/abigailtechnology/abigailtechnology/blob/output/github-contribution-grid-snake.gif
-![snake gif](https://github.com/abigailtechnology/abigailtechnology/blob/output/github-contribution-grid-snake.gif) -->
+<!-- [![readme](https://github-readme-stats.vercel.app/api/pin/?username=abigailtechnology&repo=abigailtechnology&theme=jolly)](https://github.com/abigailtechnology/abigailtechnology) -->
