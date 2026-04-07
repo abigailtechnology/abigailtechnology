@@ -16,7 +16,8 @@
 
 <div>
   <a href="https//github.com/abigailtechnology"></a>
-  <img height="180px" src = "https://github-readme-stats.vercel.app/api?username=abigailtechnology&rank_icon=github&show_icons=true&bg_color=000&title_color=DA0B85&text_color=EC459F&icon_color=FAFAFA&include_all_commits=true&count_private=true">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=abigailtechnology&rank_icon=github&show_icons=true&bg_color=000000&title_color=DA0B85&text_color=EC459F&icon_color=FAFAFA&include_all_commits=true&count_private=true"&border_radius=10">
+ <!-- <img height="180px" src = "https://github-readme-stats.vercel.app/api?username=abigailtechnology&rank_icon=github&show_icons=true&bg_color=000&title_color=DA0B85&text_color=EC459F&icon_color=FAFAFA&include_all_commits=true&count_private=true"> -->
   <img height="180px" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=abigailtechnology&layout=compact&langs_count=16&bg_color=000&title_color=DA0B85&text_color=FAFAFA&count_private=true">
 </div>
 
